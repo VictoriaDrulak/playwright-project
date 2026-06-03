@@ -5,7 +5,7 @@ This project is a test automation framework using Playwright and TypeScript, bui
 It follows Page Object Model (POM) and component-based architecture, and uses Allure for test reporting.
 
 ## Allure Report
-> Will be added after GitHub Pages setup
+https://victoriadrulak.github.io/playwright-project/
 
 ## Installation
 
