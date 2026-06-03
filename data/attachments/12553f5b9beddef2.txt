@@ -1,0 +1,3 @@
+✓ Less than 20 chars — Publish disabled
+✓ 20+ chars — Publish enabled
+✓ Valid text — Publish enabled

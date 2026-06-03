@@ -1,0 +1,4 @@
+File input count after PNG: 0
+Preview visible: 0
+Static warning text: Upload only PNG or JPG. File size must be less than 10MB
+✓ Form still accessible after PNG upload

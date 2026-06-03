@@ -1,0 +1,2 @@
+Active tags after 3 clicks: 0
+Active tags after 4th click: 0

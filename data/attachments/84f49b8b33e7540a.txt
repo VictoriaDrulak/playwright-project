@@ -1,0 +1,3 @@
+✓ Empty source — Publish enabled
+✓ Invalid URL — Publish disabled
+✓ Valid URL — Publish enabled
